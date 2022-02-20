@@ -3,8 +3,9 @@
 [b]FRONT-END:
 BACK-END:
 DESIGNER:
-[/b]
+<article>
 Instagram • Linkedin • YouTube
+  </article>
 <!--
 <div>
   <a href="https://github.com/seu-usuário-aqui">
