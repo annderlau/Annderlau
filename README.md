@@ -1,5 +1,6 @@
  ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 
-  <article> 
+ <body>
+ <article> 
  <marque>Instagram • Linkedin • YouTube</marque>
 
   </article>
@@ -10,3 +11,4 @@
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=Annderlau&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   </div>
 
+ </body>
