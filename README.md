@@ -1,6 +1,6 @@
 
  ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 
-
+Análise e desenvolvimento de sistemas
  [instagram](https://www.instagram.com/annderlau/) • [Linkedin](https://www.linkedin.com/in/maiconlidemi/) • [YouTube](https://www.youtube.com/channel/UCASWdZVjjDwVDtTXFna1HXg) 
 
 <div>
