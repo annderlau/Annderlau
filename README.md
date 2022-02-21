@@ -3,7 +3,8 @@
 <h2>FRONT-END:<p>
 BACK-END:<p>
 DESIGNER:<p>
-  <article> </h2>
+  </h2>
+  <article> 
 Instagram • Linkedin • YouTube
   </article>
 
