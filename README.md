@@ -1,7 +1,7 @@
  ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 
  <body>
  <article> 
- [link]<marque>Instagram (https://www.instagram.com/annderlau/)• [link]Linkedin (https://www.linkedin.com/in/maiconlidemi/) • [link] (https://www.youtube.com/channel/UCASWdZVjjDwVDtTXFna1HXg) YouTube</marque>
+ [link](https://www.instagram.com/annderlau/) [link](https://www.linkedin.com/in/maiconlidemi/)  [link](https://www.youtube.com/channel/UCASWdZVjjDwVDtTXFna1HXg)
 
   </article>
 
