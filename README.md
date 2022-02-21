@@ -1,11 +1,8 @@
-<h1> ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 </h1>
+ ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 
 
-<h3>FRONT-END:<p>
-BACK-END:<p>
-DESIGNER:<p>
-  </h3>
   <article> 
-Instagram • Linkedin • YouTube
+<font color="WHITE"><marquee direction="left" style="background:RED">Instagram • Linkedin • YouTube</marquee></font>
+
   </article>
 
 <div>
