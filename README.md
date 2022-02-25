@@ -15,7 +15,6 @@ Ferramentas & tecnologias que sei usar:
  <img src="https://github.com/annderlau/1_All_Icons/blob/main/06_Icons_Dev/node/node-js.png" title="node.js" alt="node.js" width="40" height="40"/>&nbsp;
  <img src="https://github.com/annderlau/1_All_Icons/blob/main/06_Icons_Dev/react/atom.png" title="react" alt="react" width="40" height="40"/>&nbsp;
  <img src="https://github.com/annderlau/1_All_Icons/blob/main/06_Icons_Dev/c/letter-c.png" title="c" alt="c" width="40" height="40"/>&nbsp;
- <img src="https://github.com/annderlau/1_All_Icons/blob/main/06_Icons_Dev/c%23/c-sharp.png" title="c-sharp" alt="c#" width="40" height="40"/>&nbsp;
  <img src="https://github.com/annderlau/1_All_Icons/blob/main/06_Icons_Dev/sql/sql-server.png" title="sql" alt="sql" width="40" height="40"/>&nbsp; 
  <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
  <p>
