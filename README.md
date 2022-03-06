@@ -1,3 +1,4 @@
+[Cv_Programador-02-03-22.pdf](https://github.com/annderlau/Annderlau/files/8191996/Cv_Programador-02-03-22.pdf)
 ### Maicon Lidemi - São Paulo - Brazil, 27 Years. 🌟 
 
 Ferramentas & tecnologias que sei usar:
