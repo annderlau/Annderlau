@@ -24,7 +24,7 @@ Ferramentas & tecnologias que sei usar:
 </div>
  <hr>
  
- [Instagram](https://www.instagram.com/annderlau/) • [Linkedin](https://www.linkedin.com/in/maiconlidemi/) • [YouTube](https://www.youtube.com/channel/UCASWdZVjjDwVDtTXFna1HXg) » [Cv_Programador-02-03-22.pdf](https://github.com/annderlau/Annderlau/files/8191996/Cv_Programador-02-03-22.pdf)
+ [Instagram](https://www.instagram.com/annderlau/) • [Linkedin](https://www.linkedin.com/in/maiconlidemi/) • [YouTube](https://www.youtube.com/channel/UCASWdZVjjDwVDtTXFna1HXg) » 
 
 
 
