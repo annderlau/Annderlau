@@ -3,15 +3,17 @@
 🎓 I'm a Systems Developer and a tech enthusiast, with experience in:
 
 <div>
-  <img align="center" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="VSCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img align="center" alt="VSCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </div>
 
 📍 I'm currently based in São Paulo, Brazil.
