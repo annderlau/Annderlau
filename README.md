@@ -1,33 +1,30 @@
-# Hi there, I'm [Maicon Lidemi] 👋🏼
+### Hi there, I'm Maicon Lidemi 👋
 
-## About Me
+🎓 I'm a Systems Developer and a tech enthusiast, with experience in:
 
-👨‍💻 I'm a System Developer and a tech enthusiast, with experience in:
+<div>
+  <img align="center" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="VSCode" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
 
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](#) 
-[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)](#) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=eed718)](#) 
-[![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](#)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](#)
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](#)
+📍 I'm currently based in São Paulo, Brazil.
 
-🚀 I'm always exploring new technologies and developing software solutions.
+👨‍💻 My most used languages are:
 
-📈 Here's the percentage of my public repositories by language:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annderlau&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact)](https://github.com/annderlau)
+📫 You can reach me at:
 
-## Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/-maiconlidemi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconlidemi/)](https://www.linkedin.com/in/maiconlidemi/)
+[![Instagram Badge](https://img.shields.io/badge/-annderlau-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/annderlau/)](https://www.instagram.com/annderlau/)
+[![YouTube Badge](https://img.shields.io/badge/-Annderlau-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/Annderlau)](https://www.youtube.com/user/Annderlau)
+[![Phone Badge](https://img.shields.io/badge/Phone-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5551999999999)](https://wa.me/5551999999999)
 
-📫 You can reach me at [Maiconlidemi@hotmail.com] or [11 965464058].
-
-📄 Check out my [CV](Seu Link do CV) for more details.
-
-🌍 Find me on:
-
-[![Instagram]([https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white](https://www.instagram.com/annderlau/))](Seu Link do Instagram)
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maiconlidemi/))](Seu Link do LinkedIn)
-[![YouTube]([https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white](https://www.youtube.com/user/Annderlau))](Seu Link do Youtube)
+📄 You can also download my resume [here](https://drive.google.com/file/d/your-resume-file-id/view?usp=sharing)
